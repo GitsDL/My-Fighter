@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resourses">
+        <file>resources/Fighter.png</file>
+    </qresource>
+</RCC>

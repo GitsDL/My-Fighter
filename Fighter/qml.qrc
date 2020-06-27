@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bullet.qml</file>
+        <file>resources/asteroid.png</file>
+        <file>asteroid.qml</file>
+        <file>resources/background.gif</file>
+        <file>resources/Fighter.gif</file>
+        <file>resources/battery.png</file>
+        <file>resources/fuel.png</file>
+        <file>fuel.qml</file>
+        <file>battery.qml</file>
+    </qresource>
+</RCC>
